@@ -44,5 +44,7 @@ When PHP function is used with mysql it usually follows this format
 
 mysql_**function**(value, value..);
 
+***Connection***
+
 
 
