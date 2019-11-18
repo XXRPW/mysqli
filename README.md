@@ -19,16 +19,16 @@ RDMS allows you to
 
 ***few definitions to know before the tutorial actually starts***
 
-Database : A database is a collection of tables, with related data.
-Table − A table is a matrix with data. A table in a database looks like a simple spreadsheet.
-Column − One column contains data of one and the same kind, for example the column postcode.
-Row − A row (= tuple, entry or record) is a group of related data, for example the data of one subscription.
-Redundancy − Storing data twice, redundantly to make the system faster.
-Primary Key − A primary key is unique. A key value can not occur twice in one table. With a key, you can only find one row.
-Foreign Key − A foreign key is the linking pin between two tables.
-Compound Key − A compound key (composite key) is a key that consists of multiple columns, because one column is not sufficiently unique.
-Index − An index in a database resembles an index at the back of a book.
-Referential Integrity − Referential Integrity makes sure that a foreign key value always points to an existing row.
+Database : A database is a collection of tables, with related data.<br>
+Table − A table is a matrix with data. A table in a database looks like a simple spreadsheet.<br>
+Column − One column contains data of one and the same kind, for example the column postcode.<br>
+Row − A row (= tuple, entry or record) is a group of related data, for example the data of one subscription.<br>
+Redundancy − Storing data twice, redundantly to make the system faster.<br>
+Primary Key − A primary key is unique. A key value can not occur twice in one table. With a key, you can only find one row.<br>
+Foreign Key − A foreign key is the linking pin between two tables.<br>
+Compound Key − A compound key (composite key) is a key that consists of multiple columns, because one column is not sufficiently unique.<br>
+Index − An index in a database resembles an index at the back of a book.<br>
+Referential Integrity − Referential Integrity makes sure that a foreign key value always points to an existing row.<br>
 
 It's fine if you don't understand all of these definitions because when we work on rows and columns on mysql it will make all sense.
 
