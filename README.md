@@ -1,6 +1,6 @@
 ***mysql injection tutorial started at 11/18/2019 by ***xrpw*** ***
 
-These are some good tutorials for sql Injection and all of these posts are copyrighted to Rubiya
+These are some good tutorials for sql Injection and all of these posts are copyrighted to Rubiya<br>
 <a href="https://www.hackerschool.org/Sub_Html/HS_Posting/?uid=42" target="blank">Rubiya sqli be</a>
 <br>
 <a href="https://www.hackerschool.org/Sub_Html/HS_Posting/?uid=43" target="blank">Rubiya sqli ex</a>
