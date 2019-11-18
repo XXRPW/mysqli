@@ -40,6 +40,9 @@ I will not explain how to install mysql.
 ***PHP syntax***
 Even though PHP can be used with different languagese like PERL, C, C++, JAVA, PHP is one of the most popular language to be used with mysql.(and people usually hate PHP and say that it's the same as contry musics because it's bad and it's everywhere)
 
+When PHP function is used with mysql it usually follows this format
+
+mysql_**function**(value, value..);
 
 
 
